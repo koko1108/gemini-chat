@@ -59,8 +59,7 @@
 10. **點擊「停止對話」按鈕來停止對話。**
 
 ## 專案結構
-Use code with caution.
-Markdown
+```
 my-gemini-ai-project/
 ├── src/
 │ ├── assets/
@@ -77,7 +76,7 @@ my-gemini-ai-project/
 ├── package.json
 ├── ...
 └── README.md // 你現在正在閱讀的 README 檔案
-
+```
 ## 注意事項
 
 *   **API 金鑰安全：** 請妥善保管你的 Gemini API 金鑰，不要將它公開在 GitHub 等地方。
